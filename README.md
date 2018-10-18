@@ -1,2 +1,2 @@
 # hello-scala
-testing scala
+testing scala play
