@@ -1,2 +1,2 @@
 # hello-scala
-testing scala play
+testing scala play commit 2
